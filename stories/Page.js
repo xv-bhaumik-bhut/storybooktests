@@ -9,6 +9,7 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => html`
       onLogin,
       onLogout,
       onCreateAccount,
+      
     })}
 
     <section>
