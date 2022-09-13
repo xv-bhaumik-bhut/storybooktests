@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test-storybook": "test-storybook",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.0",
+    "@storybook/addon-actions": "^6.5.11",
+    "@storybook/addon-essentials": "^6.5.11",
+    "@storybook/addon-links": "^6.5.11",
+    "@storybook/builder-webpack4": "^6.5.11",
+    "@storybook/manager-webpack4": "^6.5.11",
+    "@storybook/web-components": "^6.5.11",
+    "babel-loader": "^8.2.5",
+    "chromatic": "^6.9.0",
+    "lit-html": "^2.3.1"
+  }
+}
