@@ -2,7 +2,8 @@
   "scripts": {
     "test-storybook": "test-storybook",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=0b0b3e53f8a4"
   },
   "devDependencies": {
     "@babel/core": "^7.19.0",
@@ -15,5 +16,9 @@
     "babel-loader": "^8.2.5",
     "chromatic": "^6.9.0",
     "lit-html": "^2.3.1"
-  }
+  },
+  "name": "",
+  "version": "",
+  "readme": "ERROR: No README data found!",
+  "_id": "@"
 }
