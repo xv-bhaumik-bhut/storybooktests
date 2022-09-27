@@ -13,7 +13,7 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => html`
     })}
 
     <section>
-      <h2>Pages in Storybook</h2>
+      <h2>Pages test abc in Storybook</h2>
       <p>
         We recommend building UIs with a
         <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
